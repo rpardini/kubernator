@@ -1,5 +1,7 @@
 build
 node_modules
+.git
+screenshots
 
 public/monaco-editor/**/*
 !public/monaco-editor/min/vs/loader.js
